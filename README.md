@@ -1,4 +1,4 @@
-# C Playground
+# World's Worst Database
 This is a test application in C to help familiarise myself with the language as well as common system calls that make up the application layer of many networked systems.
 
 ## The Application
